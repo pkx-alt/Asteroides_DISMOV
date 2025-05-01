@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipoConexion">
+        <item>Bluetooth</item>
+        <item>Wi-Fi</item>
+        <item>Internet</item>
+    </string-array>
+    <string-array name="tipoConexionValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="tipoGraficos">
+        <item>Vectorial</item>
+        <item>Bitmap</item>
+        <item>VectorDrawable</item>
+    </string-array>
+    <string-array name="tipoGraficosValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="tipoEntrada">
+        <item>Teclado</item>
+        <item>Pantalla táctil</item>
+        <item>Sensores</item>
+    </string-array>
+    <string-array name="tipoEntradaValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="tipoAlmacenamiento">
+        <item>Array</item>
+        <item>Preferencias</item>
+        <item>Memoria interna</item>
+        <item>Memoria externa</item>
+        <item>Carpeta en memoria externa</item>
+        <item>Recursos</item>
+        <item>Assets</item>
+        <item>XML SAX</item>
+        <item>JSON</item>
+        <item>org.json</item>
+        <item>BD SQLite</item>
+        <item>BD Relacional</item>
+        <item>Socket</item>
+        <item>SW PHP</item>
+        <item>SW PHP AsyncTask</item>
+    </string-array>
+    <string-array name="tipoAlmacenamientoValores">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+    </string-array>
+
+
+</resources>
